@@ -128,7 +128,7 @@ img {
 
 .proj-idx {
   position: absolute;
-  bottom: 10px;
+  bottom: 20px;
   padding: 10px;
   display: flex;
   flex-wrap: wrap;
